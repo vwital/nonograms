@@ -1,0 +1,18 @@
+.sound-button {
+  border-radius: 10px;
+}
+.sound-btn-img {
+  display: block;
+
+  color: black;
+  width: 25px;
+  height: 25px;
+}
+
+.sound-bg-on {
+  background: url('./assets/img/ico/speaker-on.svg') no-repeat;
+}
+
+.sound-bg-off {
+  background: url('./assets/img/ico/speaker-off.svg') no-repeat;
+}

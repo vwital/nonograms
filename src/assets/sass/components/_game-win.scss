@@ -1,0 +1,16 @@
+.game-win {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  background-color: $color-gray;
+  z-index: 5;
+  position: absolute;
+  left: 20%;
+  top: 10%;
+  font-size: 2rem;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  text-align: center;
+}

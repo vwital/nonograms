@@ -1,0 +1,15 @@
+{
+  "extends": ["airbnb", "plugin:import/recommended"],
+  "rules": {
+    "no-console":"off",
+  },
+  "settings": {
+    "import/extensions":[
+      ".js"
+    ]
+  },
+  "env":{
+    "browser":true,
+    "es6": true
+  }
+}

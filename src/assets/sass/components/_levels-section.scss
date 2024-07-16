@@ -1,0 +1,9 @@
+.levels-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  transition: opacity 0.5s;
+  opacity: 0;
+  display: none;
+}
